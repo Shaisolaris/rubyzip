@@ -21,3 +21,5 @@ Gemfile.lock
 +samples/*.zip.*
 coverage
 pkg/
+config.bat
+node_modules
