@@ -8,3 +8,5 @@ coverage
 pkg/
 .ruby-gemset
 .ruby-version
+config.bat
+node_modules
